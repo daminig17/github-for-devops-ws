@@ -1,0 +1,10 @@
+python testing.py
+rm testing.py
+git init
+create new file again(testing.py)
+git status 
+git add testing.py/git add.
+git commit -m testing.py
+rm testing.py
+git restore testing.py
+git rm --cached(get back from staged to untracked)
