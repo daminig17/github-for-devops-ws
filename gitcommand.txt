@@ -8,3 +8,10 @@ git commit -m testing.py
 rm testing.py
 git restore testing.py
 git rm --cached(get back from staged to untracked)
+
+
+git remote -v
+git remote set-url origin https://url@github.com/daminig17/github-for-devops-ws.git
+# Never save a real GitHub token in a file.
+# Use a secure authentication method instead.
+ git push origin main
