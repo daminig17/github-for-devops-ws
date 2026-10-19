@@ -15,3 +15,5 @@ git remote set-url origin https://url@github.com/daminig17/github-for-devops-ws.
 # Never save a real GitHub token in a file.
 # Use a secure authentication method instead.
  git push origin main
+
+commit threw github
